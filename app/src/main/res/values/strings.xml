@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">scrapbook</string>
+    <string name="canyonString">Grand Canyon</string>
+    <string name="monumentString">Washington Monument</string>
+    <string name="libertyString">Statue Of Liberty</string>
+</resources>
